@@ -1,0 +1,95 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: SynergyBlends29x83.pdf
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: millimeters
+Artboard Dimensions: 83 mm x 29 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Gilroy Medium (OTF)
+Gilroy Bold (OTF)
+iCiel Begum (OTF)
+iCiel Begum Medium (TrueType)
+Selectric Orator Regular (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 250.561 by 167.041 points 
+Resolution: 1724.129 by 1724.129 pixels per inch
+
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 250.561 by 167.041 points 
+Resolution: 1724.129 by 1724.129 pixels per inch
+
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 252.376 by 168.251 points 
+Resolution: 1711.73 by 1711.731 pixels per inch
+
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 250.561 by 167.041 points 
+Resolution: 1724.129 by 1724.129 pixels per inch
+
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 250.561 by 167.041 points 
+Resolution: 1724.129 by 1724.129 pixels per inch
+
+
+/Users/haanhtuan/Documents/Work/Project/PERSONAL STUFF/SYNATURE/paperTexture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 254.059 by 169.373 points 
+Resolution: 1700.392 by 1700.392 pixels per inch
